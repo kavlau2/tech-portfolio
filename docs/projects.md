@@ -13,8 +13,3 @@ the app
 * Neurotech @ UIUC: I managed and mentored a growing team of 10 consultants on how to formulate unique solutions for multi-faceted business problems; I led research on how the intersection of emerging technologies such as AI, AR/VR, and 5G, can resolve challenges regarding Neurodiversity within workplaces and classrooms to author White Paper for the Cognitive Technology Department of Ericsson
 
 * OpenIt!: OpenIt! is a germ free plastic bag opening assistance device that improves grocery shopping experience by alleviating the frustrations of not being able to open produce bags; I won $150 in funding from Technology Entrepreneurship Center to implement my idea and am currently in the beginning stages of product development/testing
-
-//You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-// ![Add alternate text for image](./assets/rosemary.png)
