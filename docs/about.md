@@ -7,9 +7,8 @@ Hello! My name is Kavya Sood and I am currently a junior pursuing a degree in St
 
 ## Current Role
 
-Statistics Student at UIUC 
+Grace Hopper Celebration Attendee
 
 ## Recognition
 
-Deans List - Spring 2020
-Winner of Ideate & Isolate Challenge - Fall 2020
+Deans List - Spring 2020, Winner of Ideate & Isolate Challenge - Fall 2020
