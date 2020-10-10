@@ -3,24 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Hello! My name is Kavya Sood and I am currently a junior pursuing a degree in Statistics at the University of Illinois at Urbana-Champaign. I am passionate about creating positive change through creative problem-solving and design, and enjoy taking on any challenge that comes my way. My interests lie in healthcare, consulting, research, and technology. On campus, I am involved with several organizations including Design For America, American Marketing Association, Neurotech @ UIUC, Illini Statistics Club, and the Illinois Consulting Academy. My hobbies include creating art, cooking and baking, and brainstorming product ideas. 
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Statistics Student at UIUC 
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+Deans List - Spring 2020
+Winner of Ideate & Isolate Challenge - Fall 2020
