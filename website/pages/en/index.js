@@ -63,7 +63,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
-          <img src={siteConfig.profilePhoto} height = "200" width="200" alt="My Profile Photo"/>
+          <img src={siteConfig.profilePhoto} height = "500" width="500" alt="My Profile Photo"/>
           </PromoSection>
         </div>
       </SplashContainer>
