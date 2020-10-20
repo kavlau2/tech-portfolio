@@ -6,7 +6,7 @@ title: Projects
 Below is a description of the projects I am currently working on and have completed in the past. 
 
 * Design For America: My team is currently collaborating with the Illinois Public Health Institute to build out a working application to support breastfeeding moms with culturally relevant information; I am utilizing my strong research & synthesizing skills to determine content for
-the app
+the app; Currently interviewing breastfeeding mothers and experts across Illinois to identify what specific challenges different groups of breastfeeding mothers are facing
 
 * American Marketing Association: I am a part of both the consulting and data analytics teams; My responsibilities include assisting our client in developing a creative market strategy to successfully increase enrollment in their classes; In addition I collaborate with a team of 8 to evaluate media performance, collect data and information, track advertising efficiency, and optimize responses
 
