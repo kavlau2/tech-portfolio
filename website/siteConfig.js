@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Kavya Sood', // Title for your website.
-    tagline: 'Highly-motivated, creative statistics student looking to create positive change',
+    tagline: 'Highly-motivated, Creative Statistics Student Seeking To Create Positive Change',
     profilePhoto: 'img/profile.png',
     url: 'https://kavlau2.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
